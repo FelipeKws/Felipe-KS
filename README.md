@@ -1,4 +1,4 @@
-<h2>👋 Hi there, I’m @Felipe-KS</h2>
+<h2>👋 Hi there, I’m @FelipeKws</h2>
 
 - 🎓 I'm a Computer Engineering fascinated in technology;
 - 🍺 Brewer in spare time;
